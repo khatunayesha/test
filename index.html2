@@ -1,0 +1,13 @@
+!
+    <title>Document</title> 
+    <link rel="stylesheet" href="style.css"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Hurricane&display=swap" rel="stylesheet"> 
+</head> 
+<body> 
+    <h1>Hi Ayesha Kmn aso tmi?</h1> 
+    <h2>Hello I am sojol</h2> 
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt ipsam, ducimus modi quae a aut repudiandae! Nihil fugit consequatur tempora repellendus impedit, voluptatem ducimus similique? Provident, repellat unde saepe cumque est praesentium assumenda. Sequi et, non nulla illo quos, alias quam at error quisquam odit rerum iusto, ullam ab ex?</p> 
+</body> 
+</html>
